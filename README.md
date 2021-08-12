@@ -2,7 +2,7 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning data structures and algorithms 
 
-- 📫 How to reach me on instagram : hariharan_HM
+- 📫  instagram : hariharan_HM
 
 <!---
 hariharanHM/hariharanHM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
