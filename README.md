@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hariharanHM
-- 👀 I’m interested in java
+- 👀 I’m interested in java script
 - 🌱 I’m currently learning data structures and algorithms 
 
 - 📫  instagram : hariharan_HM
